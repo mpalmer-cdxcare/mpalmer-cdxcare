@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/cdx-care-logo.png" alt="CDX Care" width="350">
+<a href="https://www.cdxcare.com">
+  <img src="./assets/cdx-care-logo.png" alt="CDX Care" width="350">
+</a>
 
 # Michael Palmer
 
